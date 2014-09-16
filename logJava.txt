@@ -1,0 +1,32 @@
+Creature h1 added !
+Creature h2 added !
+Creature h3 added !
+Creature h4 added !
+Creature h5 added !
+Creature h6 added !
+Creature h7 added !
+Creature h8 added !
+Planet p1 added !
+Planet p2 added !
+Planet p3 added !
+Planet p4 added !
+Planet p5 added !
+Planet p6 added !
+Planet p1 ( 4 creatures)
+Planet p2 ( 1 creatures)
+Planet p3 ( 1 creatures)
+Planet p4 ( 0 creatures)
+Planet p5 ( 1 creatures)
+Planet p6 ( 1 creatures)
+Creature universe.creatures.Human Name :h1 Age : 20
+Creature universe.creatures.Human Name :h3 Age : 18
+Creature universe.creatures.Human Name :h5 Age : 45
+Creature universe.creatures.Human Name :h8 Age : 19
+Creature universe.creatures.Human Name :h4 Age : 20
+Creature universe.creatures.Human Name :h6 Age : 46
+Creature universe.creatures.Human Name :h2 Age : 85
+Creature universe.creatures.Human Name :h7 Age : 20
+null
+Planetuniverse.planets.Planet Name :p1 Creatures : 4
+Creature universe.creatures.Human Name :h4 Age : 20
+null
